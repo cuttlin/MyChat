@@ -1,0 +1,78 @@
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\bin\Debug\MyChat.exe
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\bin\Debug\MyChat.pdb
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\obj\Debug\MyChat.MainForm.resources
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.Cache
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\obj\Debug\MyChat.exe
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\obj\Debug\MyChat.pdb
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\obj\Debug\MyChat.FriendChat.resources
+F:\fsh001\MyChat\MyChat\obj\Debug\MyChat.exe
+F:\fsh001\MyChat\MyChat\obj\Debug\MyChat.pdb
+F:\fsh001\MyChat\MyChat\bin\Debug\MyChat.exe
+F:\fsh001\MyChat\MyChat\bin\Debug\MyChat.pdb
+F:\fsh001\MyChat\MyChat\obj\Debug\ResolveAssemblyReference.cache
+F:\fsh001\MyChat\MyChat\obj\Debug\MyChat.FriendChat.resources
+F:\fsh001\MyChat\MyChat\obj\Debug\MyChat.MainForm.resources
+F:\fsh001\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+F:\fsh001\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.Cache
+F:\fsh001\MyChat\MyChat\bin\Debug\Newtonsoft.Json.dll
+F:\fsh001\MyChat\MyChat\bin\Debug\Model.dll
+F:\fsh001\MyChat\MyChat\bin\Debug\Model.pdb
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\bin\Debug\Model.dll
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\bin\Debug\Model.pdb
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\MyChat\obj\Debug\MyChat.UpdateUser.resources
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\obj\Debug\MyChat.exe
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\obj\Debug\MyChat.pdb
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\bin\Debug\MyChat.exe
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\bin\Debug\MyChat.pdb
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\obj\Debug\MyChat.FriendChat.resources
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\obj\Debug\MyChat.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\obj\Debug\MyChat.UpdateUser.resources
+C:\Documents and Settings\Administrator\桌面\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.Cache
+F:\fsh001\MyChat\MyChat\obj\Debug\MyChat.UpdateUser.resources
+F:\MyChat\MyChat\obj\Debug\MyChat.exe
+F:\MyChat\MyChat\obj\Debug\MyChat.pdb
+F:\MyChat\MyChat\bin\Debug\MyChat.exe
+F:\MyChat\MyChat\bin\Debug\MyChat.pdb
+F:\MyChat\MyChat\bin\Debug\Model.dll
+F:\MyChat\MyChat\bin\Debug\Newtonsoft.Json.dll
+F:\MyChat\MyChat\bin\Debug\Model.pdb
+F:\MyChat\MyChat\obj\Debug\ResolveAssemblyReference.cache
+F:\MyChat\MyChat\obj\Debug\MyChat.FriendChat.resources
+F:\MyChat\MyChat\obj\Debug\MyChat.MainForm.resources
+F:\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+F:\MyChat\MyChat\obj\Debug\MyChat.Skin.resources
+F:\MyChat\MyChat\obj\Debug\MyChat.UpdateUser.resources
+F:\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.Cache
+E:\fsh001\MyChat\MyChat\obj\Debug\MyChat.exe
+E:\fsh001\MyChat\MyChat\obj\Debug\MyChat.pdb
+E:\fsh001\MyChat\MyChat\bin\Debug\MyChat.exe
+E:\fsh001\MyChat\MyChat\bin\Debug\MyChat.pdb
+E:\fsh001\MyChat\MyChat\bin\Debug\Model.dll
+E:\fsh001\MyChat\MyChat\bin\Debug\Model.pdb
+E:\fsh001\MyChat\MyChat\obj\Debug\ResolveAssemblyReference.cache
+E:\fsh001\MyChat\MyChat\obj\Debug\MyChat.FriendChat.resources
+E:\fsh001\MyChat\MyChat\obj\Debug\MyChat.MainForm.resources
+E:\fsh001\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+E:\fsh001\MyChat\MyChat\obj\Debug\MyChat.Skin.resources
+E:\fsh001\MyChat\MyChat\obj\Debug\MyChat.UpdateUser.resources
+E:\fsh001\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.Cache
+E:\20190508\MyChat\MyChat\obj\Debug\MyChat.exe
+E:\20190508\MyChat\MyChat\obj\Debug\MyChat.pdb
+E:\20190508\MyChat\MyChat\bin\Debug\MyChat.exe
+E:\20190508\MyChat\MyChat\bin\Debug\MyChat.pdb
+E:\20190508\MyChat\MyChat\bin\Debug\Model.dll
+E:\20190508\MyChat\MyChat\bin\Debug\Newtonsoft.Json.dll
+E:\20190508\MyChat\MyChat\bin\Debug\Model.pdb
+E:\20190508\MyChat\MyChat\obj\Debug\ResolveAssemblyReference.cache
+E:\20190508\MyChat\MyChat\obj\Debug\MyChat.FriendChat.resources
+E:\20190508\MyChat\MyChat\obj\Debug\MyChat.MainForm.resources
+E:\20190508\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+E:\20190508\MyChat\MyChat\obj\Debug\MyChat.Skin.resources
+E:\20190508\MyChat\MyChat\obj\Debug\MyChat.UpdateUser.resources
+E:\20190508\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.Cache

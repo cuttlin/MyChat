@@ -1,0 +1,25 @@
+F:\fsh001\MyChat\Model\bin\Debug\Model.dll
+F:\fsh001\MyChat\Model\bin\Debug\Model.pdb
+F:\fsh001\MyChat\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\fsh001\MyChat\Model\obj\Debug\Model.dll
+F:\fsh001\MyChat\Model\obj\Debug\Model.pdb
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\Model\bin\Debug\Model.dll
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\Model\bin\Debug\Model.pdb
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\Model\obj\Debug\Model.dll
+C:\Users\封帅虎\Desktop\dotnet代码\MyChat\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\MyChat\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\MyChat\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\MyChat\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MyChat\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\MyChat\Model\obj\Debug\Model.pdb
+F:\MyChat\Model\bin\Debug\Model.dll
+F:\MyChat\Model\bin\Debug\Model.pdb
+F:\MyChat\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\MyChat\Model\obj\Debug\Model.dll
+F:\MyChat\Model\obj\Debug\Model.pdb
+E:\20190508\MyChat\Model\bin\Debug\Model.dll
+E:\20190508\MyChat\Model\bin\Debug\Model.pdb
+E:\20190508\MyChat\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\20190508\MyChat\Model\obj\Debug\Model.dll
+E:\20190508\MyChat\Model\obj\Debug\Model.pdb

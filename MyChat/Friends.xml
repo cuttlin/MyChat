@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<friends>
+  <type val="我自己">
+    <friend>
+      <ip>127.0.0.1</ip>
+      <photo>1</photo>
+      <name>管理</name>
+      <signature>这里是签名</signature>
+      <fontColor>-16777216</fontColor>
+      <skin>../../imgs/b1.jpg</skin>
+    </friend>
+  </type>
+  <type val="我的好友">
+  </type>
+  <type val="未分组好友">
+    <friend>
+      <ip>222.30.229.187</ip>
+      <name>啦啦啦</name>
+      <photo>1</photo>
+      <signature>这里是签名</signature>
+    </friend>
+  </type>
+</friends>

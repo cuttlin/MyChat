@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyChat", "MyChat\MyChat.csproj", "{F12DE238-2F1D-4EDE-8818-B09F0765F34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{D9BE6E15-1EA4-4EC7-9A7A-3D24FE70CE26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12DE238-2F1D-4EDE-8818-B09F0765F34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12DE238-2F1D-4EDE-8818-B09F0765F34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12DE238-2F1D-4EDE-8818-B09F0765F34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12DE238-2F1D-4EDE-8818-B09F0765F34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BE6E15-1EA4-4EC7-9A7A-3D24FE70CE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BE6E15-1EA4-4EC7-9A7A-3D24FE70CE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BE6E15-1EA4-4EC7-9A7A-3D24FE70CE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BE6E15-1EA4-4EC7-9A7A-3D24FE70CE26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
